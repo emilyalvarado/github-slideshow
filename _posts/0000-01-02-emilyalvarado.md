@@ -4,14 +4,14 @@ title: "Benefits of Search Engine Presence!"
 ---
 Search engine visibility leads to improved business results including
 
-*Branding
+-Branding
 
-*Online sales
+-Online sales
 
-*Lead generation
+-Lead generation
 
-*Traffic generation
+-Traffic generation
 
-*Content generation
+-Content generation
 
-*Customer acquisition
+-Customer acquisition
