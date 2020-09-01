@@ -2,9 +2,9 @@
 layout: slide
 title: "Crawler Based Search Engines"
 ---
-*Crawler-based search engines create their databases or lists automatically without any human intervention.
+-Crawler-based search engines create their databases or lists automatically without any human intervention.
 
-*Search engines operate in three steps:
+-Search engines operate in three steps:
    
    1. Web crawling: A web crawler, also known as a web spider or bot, is a computer program or software specifically designed to collect and store data about websites for indexing.
    
