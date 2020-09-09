@@ -1,5 +1,6 @@
 ---
 layout: slide
-title: "Search Engine Algorithms!"
+title: "Twitter and Facebook"
 ---
--Algorithms are rules programmed to act on data as humans might do. The oldest algorithms are embedded in search engines and control how content is rated and ranked for search results.
+Twitter began in 2006 as a microblogging service that allowed users to post and read short messages. It has become a favored means of communication for business, news, and politics. 
+Facebook rose to popularity due to its online social network services where users can keep in touch with family, friends, and colleagues. It has become crucial for businesses to target followers in advertising. 
