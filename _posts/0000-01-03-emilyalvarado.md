@@ -2,6 +2,7 @@
 layout: slide
 title: "Crawler Based Search Engines"
 ---
+
 <body> 
     -Crawler-based search engines create their databases or lists automatically without any human intervention.
 -Search engines operate in three steps:
