@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "Marketing through Facebook!"
+title: "Reddit, Yelp, Snapchat"
 ---
-Advertisers on Facebook can potentially reach almost 2 billion members. Facebook ads offer narrow targeting with more than 70 different languages, interactive features, ease of creation, and excellent metrics. Facebook Ad Targeting is the most sophisticated of all the social media platforms.
+Reddit became popular for its anonymous ability to interact with other users on entertainment, news, and social settings. It has drawn attention for its honesty and authenticity in forums. Yelp rose to fame for its restaurant and retail review properties. Snapchat became popular for the quick snaps that people can send in a less casual format than a text message. 
